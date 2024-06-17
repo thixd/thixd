@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Thi, a passionate software engineer and former Start-up Co-founder. I have diverse experience in Data Science and Front-end development, but I now focus on back-end software development. With these varied experiences, I enjoy creating innovative solutions and contributing to the tech community. My motto is: improve my efficiency in everything and learn as much as possible.
+Hello! I'm Thi, a passionate software engineer and former Start-up Co-founder. I have diverse experience in Data Science and Front-end development, but I now focus on back-end software development. With these varied experiences, I enjoy creating innovative solutions and contributing to the tech community. My motto is: improve my efficiency in everything and learn as much as possible. 😄
 I graduated from KAIST Aug.2022 in CS and Business
 
 ## Experience
